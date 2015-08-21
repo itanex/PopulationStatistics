@@ -1,0 +1,22 @@
+    File:  Asg6Inp1.txt
+    Size:  744 values
+    Mean:  35.46
+Std.Dev.:  6.69
+  Median:  35.00
+ Maximum:  52.00
+ Minimum:  20.00
+    Mode:  33.00
+           49 occurrences.
+
+
+    File:  Asg6Inp2.txt
+    Size:  744 values
+    Mean:  35.93
+Std.Dev.:  6.70
+  Median:  35.70
+ Maximum:  52.40
+ Minimum:  20.50
+    Mode:  37.80
+           10 occurrences.
+
+
